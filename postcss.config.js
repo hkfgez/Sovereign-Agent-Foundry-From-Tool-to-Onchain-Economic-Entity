@@ -4,3 +4,4 @@ module.exports = {
     autoprefixer: {},
   },
 };
+npm install -D autoprefixer
