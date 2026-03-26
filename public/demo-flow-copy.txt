@@ -1,0 +1,16 @@
+Demo Flow
+
+Step 1
+Create Core Agent
+
+Step 2
+Initialize Treasury
+
+Step 3
+Activate Market Layer
+
+Step 4
+Hire Sub-Agents
+
+Step 5
+Open Proof Dashboard
