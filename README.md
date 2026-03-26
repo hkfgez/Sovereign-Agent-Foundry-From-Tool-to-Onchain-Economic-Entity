@@ -1,0 +1,1 @@
+# Sovereign-Agent-Foundry-From-Tool-to-Onchain-Economic-Entity
