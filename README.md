@@ -121,3 +121,67 @@ sovereign-agent-foundry/
     ├── demo-launch-market.ts
     ├── demo-hire-subagents.ts
     └── demo-proof.ts
+
+```
+Tech Stack
+
+Suggested stack:
+
+Next.js
+TypeScript
+Tailwind CSS
+Solana tooling
+Metaplex agent-related primitives
+Covalent data layer
+Mockable API routes for reproducible demos
+
+This repository is intentionally structured to support both a mock demo path and a real integration path.
+
+Quick Start
+
+Install dependencies:
+```bash
+npm install
+```
+Create environment file:
+```bash
+cp .env.example .env.local
+```
+Run the app:
+```bash
+npm run dev
+```
+Open the local app:
+```bash
+http://localhost:3000
+```
+Current Product Narrative
+
+Sovereign Agent Foundry does not ask a simple question like:
+
+“Can an AI agent trade?”
+
+It asks a deeper one:
+
+“Can an AI agent become a first-class onchain economic actor?”
+
+That shift changes the product from a utility into an institution-building framework.
+
+Submission Notes
+
+For the final submission, the most important materials are:
+
+X Article
+demo video
+architecture diagram
+dashboard screenshots
+repository structure
+clear explanation of identity, treasury, market, A2A collaboration, and proof
+
+This project should be presented not as a bot, but as a new operating model for sovereign AI agents.
+
+Closing
+
+We did not build another agent tool.
+
+We built the minimum viable institution for an onchain agent.
