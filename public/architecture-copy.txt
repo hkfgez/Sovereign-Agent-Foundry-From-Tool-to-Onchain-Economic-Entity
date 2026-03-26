@@ -1,0 +1,17 @@
+Sovereign Agent Foundry Architecture
+
+[Human Operator / Builder]
+        ↓
+[Core Agent Creation]
+        ↓
+[Identity + Wallet Layer]
+        ↓
+[Treasury Initialization]
+        ↓
+[Market Layer Activation]
+        ↓
+[Sub-Agent Hiring & Funding]
+        ↓
+[Task Execution + Settlement]
+        ↓
+[Proof Dashboard + Metrics]
